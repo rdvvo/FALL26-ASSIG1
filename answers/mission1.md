@@ -36,3 +36,6 @@ For each check you implemented, write how you would do it in Python and how you 
 | Page I used, with URL | One thing I learned from it |
 |---|---|
 | MDN Number.isFinite() - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/isFinite | I learned it checks if a number is finite. |
+
+
+test
